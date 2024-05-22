@@ -5,4 +5,5 @@
     -webkit-text-fill-color: transparent;
     background: linear-gradient(90deg, #00c4cc 0, #7d2ae8);
     -webkit-background-clip: text;
+    background-clip: text;
 }
